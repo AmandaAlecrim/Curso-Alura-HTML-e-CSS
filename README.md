@@ -15,3 +15,7 @@
 ### Amanda Demétrio Alecrim
 
 ### Linkedin: https://www.linkedin.com/in/amanda-alecrim-257696172/
+
+## Acesse o site em:
+
+### https://exemplo-portfolio-alura.vercel.app/
