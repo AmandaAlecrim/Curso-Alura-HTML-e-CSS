@@ -1,21 +1,17 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://raw.githubusercontent.com/AmandaAlecrim/Exemplo-portfolio/main/assets/imagem-projeto.png)
 
 ## Ferramentas utilizadas:
 
-* HTML
+- HTML
 
-* CSS
+- CSS
 
-* Flex-box
+- Flex-box
 
 ## Feito por:
 
-### Joana Santos
+### Amanda Demétrio Alecrim
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
-```
+### Linkedin: https://www.linkedin.com/in/amanda-alecrim-257696172/
